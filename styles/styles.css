@@ -2,13 +2,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-  font-weight: 500;
-  font-size: x-large;
-}
-
 .p1 {
   color: red;
+  font-weight: 500;
+  font-size: x-large;
   font-style: italic;
 }
 
@@ -18,4 +15,8 @@ p {
 
 .p3 {
   color: green;
+}
+
+.copyright {
+  font-size: x-small;
 }
